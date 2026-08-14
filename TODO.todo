@@ -1,0 +1,14 @@
+@TODO 1.0
+
+cnn-digit-recognition TODO:
+
+* DOCS - progress
+Documentation with formalities, neural network operation, and other related information.
+
+** Formulas - progress
+Formulas with descriptions of the processes.
+
+!!INDICATORS!!
+progress // The task is in the queue for execution. // #bfd807
+active // The task is in the queue for execution. // #22d807
+archived // The task is archived, either completed or abandoned. // #df0000 // deactivated
